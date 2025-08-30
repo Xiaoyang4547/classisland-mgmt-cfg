@@ -1,4 +1,8 @@
 {
     "ServerKind": 0,
-    "OrganizationName": "Qixing Primary School, Guilin City"
+    "OrganizationName": "Qimingxing Primary School, Guilin City"
+"PolicySource": {
+        "Value": "https://raw.githubusercontent.com/Xiaoyang4547/classisland-mgmt-cfg/master/policy.json",
+        "Version": 1
+    }
 }
