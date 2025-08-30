@@ -1,10 +1,11 @@
 {
     "ServerKind": 0,
-    "OrganizationName": "Qimingxing Primary School, Guilin City"
+    "OrganizationName": "Qimingxing Primary School"
 }
+
 {
     "PolicySource": {
-        "Value": "https://raw.githubusercontent.com/Xiaoyang4547/classisland-mgmt-cfg/master/policy.json",
+        "Value": "https://gh-proxy.com/https://raw.githubusercontent.com/Xiaoyang4547/classisland-mgmt-cfg/master/policy.json",
         "Version": 1
     }
 }
